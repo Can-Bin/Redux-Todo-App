@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# Redux-Counter-App
-Counter App Project with Redux
+# Redux-Todo-App
+Todo App Project with Redux
 =======
 # Getting Started with Create React App
 
